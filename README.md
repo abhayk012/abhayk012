@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my own projects.
 - 🌱 I learned MERN Stack Web Development.
 - 👯 I’m looking to collaborate on MERN Stack Projects
