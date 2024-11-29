@@ -23,4 +23,6 @@ When I'm not performing on stage, I dive into coding, exploring web development,
 and solving complex problems. I'm excited about blending artistry with technology
 to create meaningful experiences.
 
-![download](https://github.com/user-attachments/assets/e5c65275-fb7e-476a-816c-6c95289fd1a1)
+<div style="width: 100%; text-align: center;">
+  <img src="https://github.com/user-attachments/assets/e5c65275-fb7e-476a-816c-6c95289fd1a1" alt="Animated GIF" style="width: 100%; height: auto;" />
+</div>
