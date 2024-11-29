@@ -15,14 +15,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
 - ### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhayk012&show_icons=true&theme=onedark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayk012&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhayk012&show_icons=true&theme=onedark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayk012&layout=compact&theme=radical)
 
-### 🎶 Now Playing
-![Spotify Playing](https://spotify-github-profile.4a2198c20ddf487aaee643b764391054.com/api/view?uid=31xvvvqm37k2mqbqrmfjbpgwbdhy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]
-![Spotify Playing](https://spotify-github-profile-three-iota.vercel.app/api/view?uid=4a2198c20ddf487aaee643b764391054&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
 I am an actor at heart with a love for storytelling and creativity.
 When I'm not performing on stage, I dive into coding, exploring web development,
 and solving complex problems. I'm excited about blending artistry with technology
 to create meaningful experiences.
+
+![download](https://github.com/user-attachments/assets/e5c65275-fb7e-476a-816c-6c95289fd1a1)
