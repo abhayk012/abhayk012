@@ -20,6 +20,7 @@
 
 ### 🎶 Now Playing
 ![Spotify Playing](https://spotify-github-profile.4a2198c20ddf487aaee643b764391054.com/api/view?uid=31xvvvqm37k2mqbqrmfjbpgwbdhy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]
+![Spotify Playing](https://spotify-github-profile-three-iota.vercel.app/api/view?uid=4a2198c20ddf487aaee643b764391054&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
 I am an actor at heart with a love for storytelling and creativity.
 When I'm not performing on stage, I dive into coding, exploring web development,
