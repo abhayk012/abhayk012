@@ -19,7 +19,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayk012&layout=compact&theme=radical)
 
 ### 🎶 Now Playing
-![Spotify Playing](https://spotify-github-profile.abhayk012.com/api/view?uid=31xvvvqm37k2mqbqrmfjbpgwbdhy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+![Spotify Playing](https://spotify-github-profile.4a2198c20ddf487aaee643b764391054.com/api/view?uid=31xvvvqm37k2mqbqrmfjbpgwbdhy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]
+
 I am an actor at heart with a love for storytelling and creativity.
 When I'm not performing on stage, I dive into coding, exploring web development,
 and solving complex problems. I'm excited about blending artistry with technology
