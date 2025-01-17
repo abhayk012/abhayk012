@@ -1,6 +1,6 @@
 ### Hi there i am Abhay👋
 🎭 Passionate Actor | 💻 Aspiring Developer | 🚀 Lifelong Learner (Learn from mistakes)
-- 🔭 I’m currently working as fulstack developer.
+- 🔭 I’m currently working as frontend developer.
 - 🌱 I learned MERN Stack Web Development.
 - 👯 I’m looking to collaborate on MERN Stack Projects
 - 🤔 I’m looking for great opportunities to showcase and develop my skills.
