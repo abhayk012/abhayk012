@@ -68,11 +68,7 @@
 
 ## 🔥 GitHub Streak
 
-<p>
-  <img
-    src="https://streak-stats.demolab.com?user=abhayk012&theme=github-dark&hide_border=true"
-  />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhay012&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
