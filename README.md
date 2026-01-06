@@ -68,6 +68,11 @@
 - ### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhayk012&show_icons=true&theme=onedark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayk012&layout=compact&theme=radical)
 
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 I am an actor at heart with a love for storytelling and creativity.
 When I'm not performing on stage, I dive into coding, exploring web development,
